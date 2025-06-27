@@ -37,7 +37,7 @@ npm run dev
 
 - [x] Fundamentos
 - [x] Hooks
-- [x]Context API
+- [x] Context API
 - [x] Projeto Final
 
 ## 🛠️ Tecnologia
