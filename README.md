@@ -2,19 +2,6 @@
 
 Repositório contendo todos os projetos, anotações e desafios desenvolvidos durante o curso de **ReactJS** da [Rocketseat](https://rocketseat.com.br).
 
-## 📁 Estrutura
-
-```
-/rocketseat-reactjs-course
-├── fundamentos/
-├── hooks/
-├── roteamento/
-├── context-api/
-├── projeto-final/
-└── anotações/
-```
-
-
 ## 🧠 Conteúdo
 
 - Fundamentos do React
