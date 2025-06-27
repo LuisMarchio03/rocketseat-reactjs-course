@@ -4,6 +4,7 @@ Repositório contendo todos os projetos, anotações e desafios desenvolvidos du
 
 ## 📁 Estrutura
 
+```
 /rocketseat-reactjs-course
 ├── fundamentos/
 ├── hooks/
@@ -11,6 +12,7 @@ Repositório contendo todos os projetos, anotações e desafios desenvolvidos du
 ├── context-api/
 ├── projeto-final/
 └── anotações/
+```
 
 
 ## 🧠 Conteúdo
