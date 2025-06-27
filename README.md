@@ -11,6 +11,8 @@ Repositório contendo todos os projetos, anotações e desafios desenvolvidos du
 - Context API
 - Roteamento com React Router
 - Projeto Final completo
+- NextJS
+- Api Routes
 
 ## ▶️ Como Executar um Projeto
 
