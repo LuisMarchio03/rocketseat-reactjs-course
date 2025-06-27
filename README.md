@@ -14,29 +14,19 @@ Repositório contendo todos os projetos, anotações e desafios desenvolvidos du
 - NextJS
 - Api Routes
 
-## ▶️ Como Executar um Projeto
-
-```bash
-cd fundamentos/projeto-01-hello-world
-npm install
-npm run dev
-```
-
-- Cada pasta é independente, com seu próprio package.json.
-
-## ✅ Progresso
-
-- [x] Fundamentos
-- [x] Hooks
-- [x] Context API
-- [x] Projeto Final
-
 ## 🛠️ Tecnologia
 
+
 - ReactJS
+- NextJS
 - Vite
 - Styled Components / Tailwind (dependendo do projeto)
 - React Router
+- SaaS
+- Html5
+- Css3
+- Javascript
+- Typescript
 
 ## 📄 Licença
 
